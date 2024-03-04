@@ -3,7 +3,7 @@
   A dedicated Full Stack AI Engineer by day, Python enthusiast by night, and now, the Director of Engineering, AI & Threat Analytics at <strong><a href="https://keepersecurity.com">Keeper Security</a></strong>
 </p>
 <p>
- Based in the n the stunning Denver 🏔️ region, I blend my passion for AI and machine learning with a commitment to developing secure, innovative solutions.
+ Based in the the stunning Denver 🏔️ region, I blend my passion for AI and machine learning with a commitment to developing secure, innovative solutions.
 </p>
 
 <h3>My Journey</h3>
@@ -19,7 +19,7 @@
 
 <h3>Outside of Work</h3>
 <p>
-  When I'm not immersed in technology, I indulge in culinary experiments, strum my guitar, or carve through the snow on my snowboard, embracing the beauty of Denver's landscape.
+  When I'm not immersed in technology, I indulge in culinary experiments 🧑‍🍳, strum my guitar 🎸, or carve through the snow on my snowboard 🏂, embracing the beauty of Denver's landscape.
 </p>
 
 <h3>Let's Connect</h3>
