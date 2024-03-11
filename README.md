@@ -67,7 +67,7 @@
     <a target="_blank" href="https://www.flux.ai/">Build PCBs faster with an AI teammate</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.staticcms.org/">Open source content management for your Git workflow</a>
+    <a target="_blank" href="https://github.com/NielsRogge/Transformers-Tutorials/tree/master/UDOP">UDOP is an exciting document AI model from Microsoft Research. It has an encoder-decoder architecture, hence it's a generative model. You can use the model for document image classification, document parsing and document visual question answering (DocVQA).</a>
   </li>
 </details>
 
@@ -108,3 +108,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-london&layout=compact&card_width=500" alt="jeremy-london" />
 </p>
+
+<div>
+  <p align="center">
+    <img src="https://github.com/InvincibleZeal/InvincibleZeal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  </p>
+</div>
