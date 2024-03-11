@@ -108,9 +108,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-london&layout=compact&card_width=500" alt="jeremy-london" />
 </p>
-
-<div>
-  <p align="center">
-    <img src="https://github.com/InvincibleZeal/InvincibleZeal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-  </p>
-</div>
