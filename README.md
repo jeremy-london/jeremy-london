@@ -19,7 +19,7 @@
 
 <h3>Outside of Work</h3>
 <p>
-  When I'm not immersed in technology, I indulge in culinary experiments 🧑‍🍳, strum my guitar 🎸, or carve through the snow on my snowboard 🏂, embracing the beauty of Denver's landscape.
+  When I'm not immersed in technology, I indulge in culinary experiments 🧑‍🍳, strumming my guitar 🎸, or carving through the snow on my snowboard 🏂 and embracing the beauty of Denver's landscape.
 </p>
 
 <h3>Let's Connect</h3>
